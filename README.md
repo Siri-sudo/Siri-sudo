@@ -58,7 +58,7 @@ Automated web vulnerability scanner. Chains Nmap and custom Python scripts to su
 
 ---
 
-## Certifications
+## Certifications and Education
 
 - CompTIA Security+ (SY0-701), Nov 2024
 - MSc Cyber Security, Lancaster University (Merit)
