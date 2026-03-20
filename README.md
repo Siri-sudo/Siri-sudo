@@ -1,6 +1,8 @@
 # Hi, I'm Sirisha :)
 
-Platform engineer. I like building things — infrastructure, security, the application layer. Whatever the product needs. Currently building a FemTech health app. I like to solve problems even when there's no clear path yet. 
+_**Platform engineer.    Security-minded.    Genuinely curious.**_ 
+
+I like building things — infrastructure, security, app or whatever the product needs :). Currently building a FemTech health app. I like to solve problems even when there's no clear path yet. 
 
 Outside of automating and coding, I paint. Mostly making a mess, ocassionally something that looks intentional. It's a good reminder that not everything needs to be optimised.
 
