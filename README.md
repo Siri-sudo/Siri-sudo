@@ -52,12 +52,6 @@ Automated web vulnerability scanner. Chains Nmap and custom Python scripts to su
 
 ---
 
-## Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siri-sudo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/Siri-sudo)
-
----
-
 ## Certifications and Education
 
 - CompTIA Security+ (SY0-701), Nov 2024
